@@ -1,0 +1,14 @@
+{
+  "name": "react-native-platform-visible",
+  "version": "0.0.1",
+  "description": "A very simple component visibility switch based on Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Herrington <jherrington@walmartlabs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.11.0"
+  }
+}
